@@ -1,0 +1,18 @@
+{
+  "name": "vagnersoft.com",
+  "version": "1.0.0",
+  "description": "Website Vagnersoft.com",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Leonardo Ferreira",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "sass": "^0.5.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

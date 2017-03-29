@@ -1,0 +1,49 @@
+body {
+  margin: 0; }
+
+.wrapper {
+  width: 100%;
+  background-color: #222;
+  height: 50px; }
+
+.navbar {
+  border-radius: 0px;
+  margin: 0px;
+  height: 50px;
+  border-width: 0; }
+
+.navbar-right {
+  margin-right: 0px; }
+
+.row {
+  max-width: 1024px;
+  margin: auto; }
+
+.img-responsive {
+  background-color: #222;
+  position: relative; }
+  .img-responsive img {
+    opacity: 0.5; }
+  .img-responsive .marketing {
+    position: absolute;
+    color: white;
+    min-height: 100%;
+    background-color: rgba(34, 34, 34, 0.6);
+    min-width: 70%;
+    top: 0;
+    right: 0; }
+  .img-responsive h1 {
+    padding-left: 60px;
+    padding-top: 50px; }
+
+.meats-potatoes {
+  margin-top: 20px; }
+  .meats-potatoes img, .meats-potatoes p {
+    padding-top: 20px;
+    padding-bottom: 20px; }
+  .meats-potatoes p {
+    vertical-align: middle; }
+
+footer {
+  text-align: center;
+  color: white; }
